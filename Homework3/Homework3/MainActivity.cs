@@ -34,9 +34,9 @@ namespace Homework3
 
             Intent listView = new Intent(this, typeof(viewDetails));
             listView.PutExtra("Country", country.country);
-            listView.PutExtra("Cases", country.cases);
-            listView.PutExtra("Deaths", country.deaths);
-            listView.PutExtra("Recovered", country.recovered);
+            listView.PutExtra("Cases", country.cases.ToString());
+            listView.PutExtra("Deaths", country.deaths.ToString());
+            listView.PutExtra("Recovered", country.recovered.ToString());
             StartActivity(listView);
         }
 

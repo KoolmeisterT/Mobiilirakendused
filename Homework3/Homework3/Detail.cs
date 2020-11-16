@@ -33,9 +33,9 @@ namespace Homework3
             string Recovered_ = Intent.GetStringExtra("Recovered");
 
             Country.Text = Country_;
-            Cases.Text = Cases_;
-            Deaths.Text = Deaths_;
-            Recovered.Text = Recovered_;
+            Cases.Text = "Juhtumis " + Cases_;
+            Deaths.Text = "Surmad " + Deaths_;
+            Recovered.Text = "Paranenud " + Recovered_;
         }
     }
 }
