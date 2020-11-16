@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiina\\Desktop\\Homework2\\Homework2\\Homework2.csproj": {}
+    "C:\\Users\\tiina\\Desktop\\Mobiilirakendused\\Homework2\\Homework2\\Homework2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiina\\Desktop\\Homework2\\Homework2\\Homework2.csproj": {
+    "C:\\Users\\tiina\\Desktop\\Mobiilirakendused\\Homework2\\Homework2\\Homework2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiina\\Desktop\\Homework2\\Homework2\\Homework2.csproj",
+        "projectUniqueName": "C:\\Users\\tiina\\Desktop\\Mobiilirakendused\\Homework2\\Homework2\\Homework2.csproj",
         "projectName": "Homework2",
-        "projectPath": "C:\\Users\\tiina\\Desktop\\Homework2\\Homework2\\Homework2.csproj",
+        "projectPath": "C:\\Users\\tiina\\Desktop\\Mobiilirakendused\\Homework2\\Homework2\\Homework2.csproj",
         "packagesPath": "C:\\Users\\tiina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiina\\Desktop\\Homework2\\Homework2\\obj\\",
+        "outputPath": "C:\\Users\\tiina\\Desktop\\Mobiilirakendused\\Homework2\\Homework2\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
